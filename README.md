@@ -1,5 +1,4 @@
 # Data Analyst
-##### United Arab Emirates | Phone: +971-56-744-0785 | amarmr20@outlook.com | GitHub | Linked In | Projects | Certificates | Website 
 
 ## SKILLS
 #### Programming languages:  Python, SQL, Javascript, HTML, CSS, C/C++, R.

@@ -41,6 +41,8 @@ Obtained, integrated, analyzed, cleaned, and organized a raw dataset into 6NF no
 Designed and developed a node app using Javascript, HTML, CSS, Bootstrap, Express, mustache, and MySQL.
 The website front-end centered around dynamically populated selectors that allowed communication of data insights to non-technical audiences.
 
+[![Alternate Text]({image-url})]({/assets/vid/DataPortal.mp4} "Link Title")
+
 ![See the video](/assets/vid/DataPortal.mp4)
 
 #### Trading Advisor Bot,  C++ Command Line Program- April 2022 - July 2022

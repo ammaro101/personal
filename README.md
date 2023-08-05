@@ -41,7 +41,7 @@ Obtained, integrated, analyzed, cleaned, and organized a raw dataset into 6NF no
 Designed and developed a node app using Javascript, HTML, CSS, Bootstrap, Express, mustache, and MySQL.
 The website front-end centered around dynamically populated selectors that allowed communication of data insights to non-technical audiences.
 
-![See the video](/assets/videos/Data Portal Short Video.mp4)
+![See the video](/assets/vid/DataPortal.mp4)
 
 #### Trading Advisor Bot,  C++ Command Line Program- April 2022 - July 2022
 Used data ETL, data parsing & tokenization, regular expression, object-oriented programming, algorithm optimization, robust error handling, and modular reusable code to create a real-time trading program that allows users to bid & ask on cryptos.
